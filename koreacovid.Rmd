@@ -87,3 +87,4 @@ Fisher's Exact Test shows that males are 2.3 times more likely to die of covid t
 
 ## Conclusions
 
+Our null hypothesis states that covid deaths are independent of sex. Using the Cat~Cat helper file, we were able to organize our data to reject the hypothesis. We even got the exact number of deaths for each sex.
